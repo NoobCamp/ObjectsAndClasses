@@ -20,5 +20,9 @@ public class Main {
         System.out.println(" ");
         artemisFowl.setPublicationYear(2004);
         System.out.println("artemisFowl.getPublicationYear() = " + artemisFowl.getPublicationYear());
+        System.out.println(tolstoiL.equals(colferE));
+        System.out.println(warAndPeace.equals(artemisFowl));
+        System.out.println(warAndPeace);
+        System.out.println(artemisFowl);
     }
 }
